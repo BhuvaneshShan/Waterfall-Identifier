@@ -22,15 +22,15 @@ The following snapshots show the result for different waterfall pictures.
 Since the identification starts with standard window sizes, the images that have waterfall prominently with darker surrounding regions, were identifed on the first go. 
 So, the windows sizes look the same in some of the above images.
 
-There are also opportunities to improve this because, there are some cases where waterfall is detected partially or some additional areas outside the waterfalls like the below ones.
+There are also opportunities to improve this because, there are some cases where waterfall is detected partially or  along with additional areas outside the waterfall like the below ones.
 
-##Partial identification
+###Partial identification
 
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture7.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture2.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture6.png)
 
-##Identification with additional non-waterfall areas
+###Identification with additional non-waterfall areas
 
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture8.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture91.png)
