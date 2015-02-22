@@ -19,8 +19,8 @@ So, the windows sizes look the same in some of the above images.
 
 ##Partial identification
 
-![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture2.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture7.png)
+![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture2.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture6.png)
 
 ##Identification with additional non-waterfall areas
