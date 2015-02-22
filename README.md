@@ -7,7 +7,7 @@ I tried a crude implementation of detection of Haar-like features in an image.
 Created using Processing (https://processing.org/) over a weekend.
 Wrote it from scratch without using any external library! :)
 
-IntImg.pde is the source code file. 
+IntImage.pde is the source code file. 
 
 The following snapshots show the result for different waterfall pictures. 
 
