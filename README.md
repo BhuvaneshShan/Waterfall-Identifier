@@ -1,8 +1,11 @@
 # WATERFALL IDENTIFIER
 Identifies waterfall in a given image
 
-Created using Processing (https://processing.org/) over a weekend.
+Similar to face detection on photographs, this project finds the location of waterfall in a picture.
 I tried a crude implementation of detection of Haar-like features in an image. 
+Created using Processing (https://processing.org/) over a weekend.
+Wrote it from scratch without the help of any external library! :)
+IntImg.pde is source code file. 
 
 The following snapshots show the result for different waterfall pictures. 
 
