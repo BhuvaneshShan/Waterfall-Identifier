@@ -10,11 +10,12 @@ The following snapshots show the result for different waterfall pictures.
 
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture1.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture3.png)
+![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture5.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture4.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture9.png)
 
 Since the identification starts with standard window sizes, the images that have waterfall prominently with darker surrounding regions, were identifed on the first go. 
-So, the windows sizes look the same in the above images.
+So, the windows sizes look the same in some of the above images.
 
 ##Partial identification
 
@@ -24,7 +25,6 @@ So, the windows sizes look the same in the above images.
 
 ##Identification with additional non-waterfall areas
 
-![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture5.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture8.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture91.png)
 ![My image](https://thebluebreeze.files.wordpress.com/2015/02/capture92.png)
