@@ -1,7 +1,7 @@
 # WATERFALL IDENTIFIER
 Identifies waterfall in a given image
 
-Created in Processing (https://processing.org/) over a weekend.
+Created using Processing (https://processing.org/) over a weekend.
 I tried a crude implementation of detection of Haar-like features in an image. 
 
 The following snapshots show the result for different waterfall pictures. 
